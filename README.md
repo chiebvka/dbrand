@@ -49,4 +49,32 @@ Please file feedback and issues over on the [Supabase GitHub org](https://github
 - [Cookie-based Auth and the Next.js 13 App Router (free course)](https://youtube.com/playlist?list=PL5S4mPUpp4OtMhpnp93EFSo42iQ40XjbF)
 - [Supabase Auth and the Next.js App Router](https://github.com/supabase/supabase/tree/master/examples/auth/nextjs)
 - [Next.js Auth Helpers Docs](https://supabase.com/docs/guides/auth/auth-helpers/nextjs)
+<<<<<<< HEAD
 >>>>>>> acff6bd (Initial commit from Create Next App)
+=======
+
+
+
+
+## To do list 
+- [Figure out what postgresql is and how to use it]
+- [Does using supabase mean i don't need to write backend code]
+- [Learn about querying sql and the likes]
+
+
+<!-- 
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Architects+Daughter&family=Caveat:wght@700&family=Concert+One&family=Covered+By+Your+Grace&family=Gloria+Hallelujah&family=Kalam:wght@300&family=Orbitron:wght@400;500&display=swap" rel="stylesheet"> -->
+
+
+<!-- 
+
+font-family: 'Architects Daughter', cursive;
+font-family: 'Caveat', cursive;
+font-family: 'Concert One', cursive;
+font-family: 'Covered By Your Grace', cursive;
+font-family: 'Gloria Hallelujah', cursive;
+font-family: 'Kalam', cursive;
+font-family: 'Orbitron', sans-serif; -->
+>>>>>>> c0abddf (header version 1)

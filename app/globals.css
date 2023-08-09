@@ -30,6 +30,22 @@
   animation: animateIn 0.3s ease 0.15s both;
 }
 
+.link-tab{
+  overflow: hidden;
+  font-family: "dbicons","dbf-base","Arial","Verdana",sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  text-rendering: optimizeLegibility;
+  text-transform: none;
+  font-feature-settings: "liga" 1;
+  overflow: visible;
+  text-transform: lowercase;
+}
+
 @keyframes animateIn {
   from {
     opacity: 0;
